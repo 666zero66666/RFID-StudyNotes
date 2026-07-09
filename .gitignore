@@ -1,20 +1,15 @@
-# macOS
+# Only sync the RFID folder to GitHub.
+# Everything else in this Obsidian vault stays local.
+*
+!/.gitignore
+!/RFID/
+!/RFID/**
+
+# macOS / system files
 .DS_Store
 .AppleDouble
 .LSOverride
 Icon
-
-# Obsidian local/workspace state (machine-specific)
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/cache/
-.obsidian/plugins/*/data.json
-.obsidian/claudian-backups/
-.trash/
-
-# Claudian/Claude local session data
-.claudian/
-.claude/
 
 # Temporary Office files
 ~$*.docx
