@@ -2,6 +2,7 @@
 # Everything else in this Obsidian vault stays local.
 *
 !/.gitignore
+!/README.md
 !/RFID/
 !/RFID/**
 
