@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Obsidian local/workspace state (machine-specific)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/plugins/*/data.json
+.obsidian/claudian-backups/
+.trash/
+
+# Claudian/Claude local session data
+.claudian/
+.claude/
+
+# Temporary Office files
+~$*.docx
+~$*.pptx
+~$*.xlsx
+
+# Logs / databases / generated data
+*.log
+*.sqlite
+*.sqlite3
+*.db
+
+# GitHub hard limit / very large reference files
+# Keep these locally unless you decide to use Git LFS.
+RFID/入门资料1/RFID与传感器网络 (Pdg2Pic, （挪）张彦，（加）杨，陈积明编著) (z-library.sk, 1lib.sk, z-lib.sk).pdf

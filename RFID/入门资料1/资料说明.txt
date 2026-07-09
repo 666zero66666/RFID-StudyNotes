@@ -1,0 +1,11 @@
+1. 2012最新版《RFID基础知识全书》（凯帕斯）
+可以先阅读，对RFID大致了解
+
+2. An introduction to RFID
+阅读、了解
+
+3. RFID AND SENSOR NETWORKS
+精读第1，2，4章，对RFID协议充分了解
+
+
+
